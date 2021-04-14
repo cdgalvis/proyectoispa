@@ -1,0 +1,11 @@
+.container {
+    margin-top: 5%;
+    margin-bottom: 5%;
+} 
+
+body {
+    background-color: #042F81;
+    /*background-image: url("../img/fondo.jpg");
+    background-image: no-repeat;
+    background-size: cover;*/  
+}  
